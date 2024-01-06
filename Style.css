@@ -1,0 +1,192 @@
+html{
+    background-image: url('FROGMP.png');
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    float: right;
+    padding: 0;
+    padding-right: 50px;
+    padding-top: 70px;
+    display: inline-block;
+  }
+  
+  li {
+    display: inline;
+    color: rgb(160, 202, 52);
+    font-size: 45px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  a{
+    display: inline;
+    color: rgb(160, 202, 52);
+    font-size: 45px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+  }
+
+  .line{
+    color: white;
+  }
+
+  .text{
+    color: rgb(160, 202, 52);
+    padding-left:80px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    padding-top: 0px;
+    display: inline-block;
+  }
+
+  .textt{
+    color: rgb(160, 202, 52);
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding-top: 0px;
+    display: inline-block;
+  }
+
+  .Version{
+    color: rgb(160, 202, 52);
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 90px;
+    text-align: center;
+    padding-top: 0px;
+  }
+
+  .texttt{
+    color: rgb(160, 202, 52);
+    font-family: 'Freckle Face', system-ui;
+    display: inline-block;
+    font-size: 25px;
+    width: 400px;
+    margin-left: 120px;
+  }
+
+  .DMSC{
+    background-color: transparent;
+    border-style: solid;
+    border-color: white;
+    border-radius: 50p;
+    border-width: 4px;
+    width: 700PX;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-bottom: 20px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    color: rgb(160, 202, 52);
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    font-size: 40px;
+  }
+
+  .DMSCC{
+    background-color: transparent;
+    border-style: solid;
+    border-color: white;
+    border-radius: 50p;
+    border-width: 4px;
+    width: 700PX;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-bottom: 20px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    color: rgb(160, 202, 52);
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+  }
+
+  .Linee{
+    width: 1900px;
+    height: 4px;
+    background-color: white;
+  }
+
+  .download-box{
+    height: 720px;
+    width: 1100px;
+    margin-left: 50px;
+    margin-top: 0px;
+    background-image: url('FROGMPDOWNLOAD.png');
+    background-size: cover;
+    border-radius: 40PX;
+  }
+
+  .MSCMPDOWNLOADH{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(160, 202, 52);
+    padding-left: 50px;
+    display: inline-block;
+    font-size: 80px;
+  }
+
+  .MSCMPBYFROG{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(160, 202, 52);
+    padding-top: 50px;
+    display: inline-block;
+    font-size: 20px;
+  }
+
+  .Desc{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(160, 202, 52);
+    width: 700px;
+    padding-left: 50px;
+  }
+
+  .Download{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(160, 202, 52);
+    border-style: none;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+  }
+
+  .DGL{
+    color: white;
+    font-size: 20px;
+  }
